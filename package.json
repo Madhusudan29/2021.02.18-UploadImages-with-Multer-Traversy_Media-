@@ -1,0 +1,16 @@
+{
+  "name": "uploadimages_with_multer",
+  "version": "1.0.0",
+  "description": "Uploading Images",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/index.js"
+  },
+  "author": "Madhu",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
